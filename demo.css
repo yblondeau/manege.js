@@ -1,0 +1,8 @@
+.tweet {
+  margin: 5px;
+  border: 1px solid #999;
+  height: 150px;
+}
+.show {
+  background-color: #0F9;
+}
