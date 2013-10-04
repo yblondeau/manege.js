@@ -1,7 +1,7 @@
 manege.js
 =========
 
-Simple jQuery plugin to display last tweets of an account.
+Simple jQuery plugin and PHP backend to display last tweets of an account.
 
 How to use
 ----------
@@ -12,7 +12,8 @@ How to use
     * `twitterAccount`: the Twitter account from which you want to display the last tweets
     * `numTweetsShown`: the number of tweets shown at the same time (default is 3)
     * `numTweetsTotal`: the number of tweets kept in the local cache (default is 10)
-    * `refreshTime`: the delay between two rotations of the manège (default is 3)
+    * `refreshTime`: the delay between two rotations of the *manège* (default is 3)
+* Enjoy!
 
 Example
 -------
