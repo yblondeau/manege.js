@@ -1,7 +1,7 @@
 manege.js
 =========
 
-Simple jQuery plugin and PHP backend to display last tweets of an account.
+Simple jQuery plugin and PHP backend to display the last tweets of a given account.
 
 How to use
 ----------
